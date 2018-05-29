@@ -1,0 +1,1 @@
+This is a test of Mark updating the NewFile.txt file and to test the merge process. 
