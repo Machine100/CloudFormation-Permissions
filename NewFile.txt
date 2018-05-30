@@ -1,1 +1,10 @@
-This is a test of Mark updating the NewFile.txt file and to test the merge process. 
+This is a test of Mark updating the NewFile.txt file and to test the merge process.
+
+This is an update done by creating a new BRANCH. (MarkFeatureAddBranch) This file is in the newly created branch then editing directly in GitHub.
+
+Once these updates are completed, I'll merge the branch back into the MASTER branch.
+
+Step 1 - Commit the changes...
+Step 2 - Try to remember the hello-world demo done yesterday.
+
+Forgot to add comments before the commit so I'll do another one with comments in the commit section.
