@@ -6,3 +6,5 @@ Once these updates are completed, I'll merge the branch back back into the MASTE
 
 Step 1 - Commit the changes...
 Step 2 - Try to remember the hello-world demo done yesterday.
+
+Forgot to add comments before the commit so I'll do another one with comments in the commit section.
