@@ -1,10 +1,18 @@
 ---
 AWSTemplateFormatVersion: 2010-09-09
+
+
+
+
+
 Resources:
   VPC:
     Type: AWS::EC2::VPC
     Properties:
-      CidrBlock: 10.11.12.0/16
+      CidrBlock: 10.11.12.0  /24
       EnableDnsSupport: true
       EnableDnsHostnames: true
       InstanceTenancy: default
+      tags:
+      - Key: name
+        Value: ProductionEnvironment
