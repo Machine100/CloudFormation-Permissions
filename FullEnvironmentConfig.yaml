@@ -13,6 +13,4 @@ Resources:
       EnableDnsSupport: true
       EnableDnsHostnames: true
       InstanceTenancy: default
-      tags:
-      - Key: name
-        Value: ProductionEnvironment
+      
